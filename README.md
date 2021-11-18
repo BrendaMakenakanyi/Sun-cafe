@@ -1,3 +1,2 @@
-# hello-world
-my first repository
-hello!! my name is brenda and im excited to be using this amazing platform
+# SUN-CAFE
+This demonstrates recording of customers ina cafe using deque collection module
